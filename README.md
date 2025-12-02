@@ -1,6 +1,6 @@
 # CHARACTERISTICS-OF-PN-JUNCTION-DIODE
-### Name: Mathew Roger A
-### Reg no: 212224080035
+### Name: karthikeyan b k
+### Reg no: 212224080024
 ## AIM:
 Study of semiconductor diode characteristics under forward and reverse bias
 condition.
